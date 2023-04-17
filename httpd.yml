@@ -1,5 +1,5 @@
 ---
-- name: webserver instsllstion and configuration playbook
+- name: WEBserver instsllstion and configuration playbook
   hosts: all
   tasks: 
     - name: httpd package  installation
